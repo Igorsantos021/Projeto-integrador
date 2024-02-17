@@ -1,10 +1,10 @@
 .container {
     margin: 0 auto;
-    background-color: rgb(46, 2, 243);
+    background-color: rgb(245, 244, 248);
   }
 
   .cabecalho {
-    background-color: #d3c7c3;
+    background-color: #9aa9ec;
     display: flex;
     align-items: center;
     justify-content: space-between;
